@@ -1,0 +1,12 @@
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\bin\Debug\net7.0\User0332.IntTypes.deps.json
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\bin\Debug\net7.0\User0332.IntTypes.dll
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\bin\Debug\net7.0\User0332.IntTypes.pdb
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\User0332.IntTypes.csproj.AssemblyReference.cache
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\User0332.IntTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\User0332.IntTypes.AssemblyInfoInputs.cache
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\User0332.IntTypes.AssemblyInfo.cs
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\User0332.IntTypes.csproj.CoreCompileInputs.cache
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\User0332.IntTypes.dll
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\refint\User0332.IntTypes.dll
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\User0332.IntTypes.pdb
+C:\Users\carlf\programs\IntTypes\User0332.IntTypes\obj\Debug\net7.0\ref\User0332.IntTypes.dll
